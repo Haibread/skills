@@ -1,0 +1,4 @@
+.task/
+mise.local.toml
+mise.local.lock
+.env
